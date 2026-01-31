@@ -135,7 +135,7 @@ const translations = {
     }
 };
 
-let currentLang = 'en';
+let currentLang = 'ru';
 const langToggleBtn = document.getElementById('lang-toggle');
 const i18nElements = document.querySelectorAll('[data-i18n]');
 const i18nPlaceholders = document.querySelectorAll('[data-i18n-placeholder]');
